@@ -1,0 +1,16 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 45%;
+  margin: 2.5%;
+  border: 2px solid #F9B5AC;
+  border-radius: 50px 20px;
+  text-align: center;
+}
+
+.around {
+	display: flex;
+  justify-content: space-around	;
+}
